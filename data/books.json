@@ -10,5 +10,29 @@
         "title": "Fundamentals of Bayesian Epistemology 2",
         "author": "Michael G. Titelbaum",
         "published": "2022"
+    },
+    {
+        "id": 3,
+        "title": "Behave: The Biology of Humans at Our Best and Worst on",
+        "author": "Robert Sapolsky",
+        "published": "2017"
+    },
+    {
+        "id": 4,
+        "title": "The Case Against Reality",
+        "author": "Donald D. Hoffman",
+        "published": "2020"
+    },
+    {
+        "id": 5,
+        "title": "The Hundred-page Machine Learning Book",
+        "author": "Andriyu Burkov",
+        "published": "2019"
+    },
+    {
+        "id": 6,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "published": "1866"
     }
 ]

@@ -13,9 +13,9 @@ export default async function Page() {
   console.log(data)
   return (
     <div>
-      <main>
+      <main className="grid-container">
         {data.map(book => (
-          <div key={book.id}>
+          <div className="grid-item" key={book.id}>
             <h3>{book.title}</h3>
             <h4>{book.author}</h4>
             <span>{book.published}</span>
