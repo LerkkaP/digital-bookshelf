@@ -31,5 +31,18 @@ body {
 
 .grid-item {
   border: 1px solid white;
+  padding: .5rem;
   border-radius: 5px;
+}
+
+.book-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.book-author {
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0.5rem 0;
 }
