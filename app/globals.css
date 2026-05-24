@@ -46,3 +46,18 @@ body {
   font-weight: 500;
   margin: 0.5rem 0;
 }
+
+/* Book statuses */
+
+.read {
+  color: green;
+}
+
+.unread {
+  color: red;
+}
+
+.reading {
+  color: yellow;
+}
+

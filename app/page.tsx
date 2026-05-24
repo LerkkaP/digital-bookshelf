@@ -4,7 +4,8 @@ type Book = {
   id: string,
   title: string,
   author: string,
-  published: number
+  published: number,
+  status: string
 }
 
 export default async function Page() {
@@ -19,6 +20,7 @@ export default async function Page() {
             <h2 className="book-title">{book.title}</h2>
             <h3 className="book-author">{book.author}</h3>
             <span className="book-published">{book.published}</span>
+            <div><span className={book.status}>&#9679;</span> {book.status}</div>
           </div>
         ))}
       </main>
